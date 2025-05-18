@@ -6,6 +6,21 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&center=true&vCenter=true&width=600&height=30&lines=Welcome+to+the+GitHub+of+Khushi+Yadav+—+where+logic+meets+innovation,+one+commit+at+a+time.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&vCenter=true&width=800&height=30&lines=Hey+there%F0%9F%91%8B+I'm+Khushi+Yadav!+Welcome+to+my+GitHub)](https://git.io/typing-svg)
+
+<div align="center">
+
+  <!-- Most Used Languages -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kip-07&layout=compact&theme=radical)
+
+  <!-- Social Links -->
+  <a href="https://www.linkedin.com/in/khushi-yadav-583a841b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://www.instagram.com/khushiy._/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
 </div>
+
