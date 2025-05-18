@@ -4,5 +4,8 @@
 
 <h2 align="center">Hi 👋, I'm Khushi Yadav</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&center=true&vCenter=true&width=600&height=30&lines=Hey+there👋+I'm+Khushi+Yadav!+Welcome+to+my+GitHub)](https://git.io/typing-svg)
+<div align="center">
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&center=true&vCenter=true&width=600&height=30&lines=Welcome+to+the+GitHub+of+Khushi+Yadav+—+where+logic+meets+innovation,+one+commit+at+a+time.)](https://git.io/typing-svg)
+
+</div>
