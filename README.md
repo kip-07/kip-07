@@ -10,8 +10,7 @@
 
 <div align="center">
 
-  <!-- Most Used Languages -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kip-07&layout=compact&theme=radical)
+  
 
   <!-- Social Links -->
   <a href="https://www.linkedin.com/in/khushi-yadav-583a841b5/" target="_blank">
